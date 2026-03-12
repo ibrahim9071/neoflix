@@ -1,1 +1,73 @@
 
+[
+  {
+    "id": 1773273510616,
+    "tmdbId": "1228681",
+    "Başlık": "Cinsiyet",
+    "logo": "https://image.tmdb.org/t/p/w500/q8fRL5CRKDcgQ7YdmdGarhs4IOK.png",
+    "poster": "https://image.tmdb.org/t/p/original/lUTYYt81DXiPebkAitxoN78uujm.jpg",
+    "arka plan": "https://image.tmdb.org/t/p/original/bpKVsb5LcbWPsdx7PfFT6blGS1G.jpg",
+    "fragman": "https://www.youtube.com/watch?v=8pA-dnr8jUE",
+    "yıl": "2024",
+    "puan": "6.8",
+    "dil": "Türkçe",
+    "kategori": "",
+    "Özet": "Evli, heteroseksüel iki baca temizleyicisi, cinsellik ve kimlik hakkındaki görüşlerini sarsan deneyimlerle karşı karşıya kalır. Biri, eşcinselliğin veya sadakatsizliğin bir ifadesi olarak görmeden aynı cinsiyetten biriyle karşılaşır. Diğeri ise rüyalarında kadın olarak görülür."
+    "döküm": [
+      {
+        "İsim": "Jan Gunnar Røise",
+        "karakter": "Baca Temizleyicisi",
+        "fotoğraf": "https://image.tmdb.org/t/p/w185/2nSo5qjTPEuGNNLgdL1DaEMr6co.jpg"
+      },
+      {
+        "İsim": "Thorbjørn Harr",
+        "karakter": "Bölüm Başkanı",
+        "fotoğraf": "https://image.tmdb.org/t/p/w185/hqBkuGoISmRB5O8t6RkKcHv3bZA.jpg"
+      },
+      {
+        "İsim": "Siri Forberg",
+        "karakter": "Baca Temizleyicisinin Karısı",
+        "fotoğraf": ""
+      },
+      {
+        "İsim": "Birgitte Larsen",
+        "Karakter": "Bölüm Başkanının Eşi",
+        "fotoğraf": "https://image.tmdb.org/t/p/w185/gmFbtC5KwyOMWYgWDzy6JqXQHpH.jpg"
+      },
+      {
+        "İsim": "Theo Dahl",
+        "Karakter": "Bölüm Başkanının Oğlu",
+        "fotoğraf": ""
+      },
+      {
+        "İsim": "Nasrin Khusrawi",
+        "Karakter": "Şarkı Öğretmeni",
+        "fotoğraf": "https://image.tmdb.org/t/p/w185/kD6wHXQnYYiyfc8ksZdtRgmwQNB.jpg"
+      },
+      {
+        "isim": "Anne Marie Ottersen",
+        "karakter": "Doktor",
+        "fotoğraf": "https://image.tmdb.org/t/p/w185/76zo5fEHNQyWRojVBOsmNp8pj9w.jpg"
+      },
+      {
+        "isim": "Vetle Bergan",
+        "karakter": "Mimar",
+        "fotoğraf": ""
+      },
+      {
+        "İsim": "Iver Innset",
+        "karakter": "Mimar",
+        "fotoğraf": ""
+      },
+      {
+        "isim": "Brynjar Åbel Bandlien",
+        "karakter": "Dans Eğitmeni",
+        "fotoğraf": "https://image.tmdb.org/t/p/w185/8kTHBUzm2DYmE5qzsNIajHhWuYg.jpg"
+      }
+    ],
+    "movieLink": "",
+    "indirme bağlantısı": "",
+    "tür": "film",
+    "createdAt": 1773273510616
+  }
+]
